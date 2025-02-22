@@ -13,6 +13,9 @@ A Command-Line Quiz Generator built using Java, allowing users to create, manage
 ✔️ User-friendly command-line interface
 
 ⚙️ Technologies Used
+
 Language: Java
+
 Concepts: OOP, File Handling, Exception Handling
+
 IDE: VS Code
